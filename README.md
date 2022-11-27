@@ -1,8 +1,6 @@
 # AIRBNB Clone Project 
 
-<p align="center">
-    <img scr="hbnb_logo.png">
-<p>
+![](./hbnb_logo.png)
 
 ## Description
 The AirBnb Clone is the major project in the ALX SE programme. It starts out with a Python console app creation, which is used as a foundation for the entire project. The project is executed in phases untin a sophisticated web app (including frontend and backend) is built.
